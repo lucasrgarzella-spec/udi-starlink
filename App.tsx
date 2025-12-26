@@ -5,7 +5,6 @@ import { Features } from './components/Features';
 import { Products } from './components/Products';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
-import { ChatAssistant } from './components/ChatAssistant';
 import { SectionId } from './types';
 
 const App: React.FC = () => {
@@ -42,7 +41,6 @@ const App: React.FC = () => {
       </main>
 
       <Footer />
-      <ChatAssistant />
     </div>
   );
 };
