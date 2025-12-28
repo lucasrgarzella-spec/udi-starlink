@@ -10,9 +10,6 @@ Site institucional da **UDI Starlink**, focado na apresentação dos serviços d
 ## 📍 Localização
 Uberlândia – MG
 
-## 📲 Contato
-WhatsApp: (34) 98412-4994
-
 ---
 
 Este repositório contém apenas o **frontend institucional** do site.
