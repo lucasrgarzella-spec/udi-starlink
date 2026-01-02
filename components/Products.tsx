@@ -16,7 +16,7 @@ const products: Product[] = [
     id: 'cabo-usbc-3m',
     name: 'Cabo USB-C 3M',
     description: 'Cabo conversor USB Tipo C para alimentação Starlink. Compatível com Power Banks.',
-    price: 150,
+    price: 130,
     category: 'accessory',
     image: 'https://lh3.googleusercontent.com/d/1NT2Dm2DkRCvAC7g9WYNot3McFmrBRGEk',
     features: ['50% OFF', 'Conector USB-C', 'Comprimento 3 Metros', 'Alta Durabilidade']
@@ -25,7 +25,7 @@ const products: Product[] = [
     id: 'cabo-fuse-3m',
     name: 'Cabo Bateria Mini 3M',
     description: 'Cabo com suporte de fusível automotivo ATC/ATO para Starlink Mini. Conexão direta.',
-    price: 150,
+    price: 130,
     category: 'accessory',
     image: 'https://lh3.googleusercontent.com/d/1x1zwSMopvgi_QNdWFpEOjAuX_g_HxJpV',
     features: ['50% OFF', 'Fusível ATC/ATO', 'Terminais Olhal', 'Para Starlink Mini']
